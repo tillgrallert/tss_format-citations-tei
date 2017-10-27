@@ -1,0 +1,5 @@
+.DS_Store
+exports/
+
+_output/
+temp/
